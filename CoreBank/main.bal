@@ -63,7 +63,7 @@ service /cbs on new http:Listener(9095) {
                                         "credit_rating": (check item.credit_rating).toString()
                                     };
                                     json|error result = req.mergeJson(additionalProperties);
-                                    check io:fileWriteJson(requestsFilePath, requestDetails);
+                                    // check io:fileWriteJson(requestsFilePath, requestDetails);
                                 }
                             }
                         }

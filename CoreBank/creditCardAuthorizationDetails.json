@@ -1,0 +1,14 @@
+[
+    {
+      "merchant_id": "MERCHANT123",
+        "transaction_id": "TXN123456789",
+        "status": "approved",
+        "authorization_code": "AUTH567"
+      },
+      {
+        "merchant_id": "MERCHANT789",
+        "transaction_id": "TXN987654321",
+        "status": "declined",
+        "reason": "Insufficient balance in the account."
+      }
+]

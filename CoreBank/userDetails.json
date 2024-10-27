@@ -1,0 +1,19 @@
+[
+    {
+        "social_security_number":"123-45-6789",
+        "customer_id": "1234567890",
+        "name": "John Doe",
+        "email": "johndoe@email.com",
+        "phone": "123-456-7890",
+        "address": "123 Main Street, Cityville, USA"
+        
+      },
+      {
+        "social_security_number":"123-45-6788",
+        "customer_id": "1234567891",
+        "name": "John Smith",
+        "email": "johnsmith@email.com",
+        "phone": "123-456-7891",
+        "address": "125 Main Street, Cityville, USA"
+      }
+]

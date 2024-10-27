@@ -1,0 +1,27 @@
+[
+    {
+        "user_id": "1234567890",
+        "credit_score": 720,
+        "credit_rating": "Good",
+        "credit_limit": 10000,
+        "outstanding_balance": 2500,
+        "available_credit": 7500
+      },
+
+      {
+        "user_id": "1234567891",
+        "credit_score": 590,
+        "credit_rating": "Poor",
+        "credit_limit": 8000,
+        "outstanding_balance": 7000,
+        "available_credit": 1000,
+        "credit_history": "Late payments for the past year",
+        "open_accounts": 1,
+        "total_accounts": 4,
+        "late_payments": 5,
+        "derogatory_marks": 1,
+        "recent_credit_inquiries": 3,
+        "public_records": 1
+      }
+     
+]

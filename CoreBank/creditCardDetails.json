@@ -1,0 +1,16 @@
+[
+  {
+    "merchant_id": "MERCHANT123",
+    "merchant_name": "John Doe",
+    "email": "dharanes8@gmail.com",
+    "social_security_number":"123-45-6789",
+    "card_number": "1234-5678-9012-3456"
+  },
+  {
+    "merchant_id": "MERCHANT789",
+    "merchant_name": "Mark Trevor",
+    "email": "dharanes8@gmail.com",
+    "social_security_number":"123-45-6489",
+    "card_number": "1234-5678-9012-3455"
+  }
+]

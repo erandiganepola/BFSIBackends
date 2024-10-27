@@ -1,0 +1,21 @@
+[
+  {
+    "merchant_id": "MERCHANT123",
+    "transaction_id": "123456789",
+    "status": "approved",
+    "score": 95.5
+  },
+  {
+    "merchant_id": "MERCHANT789",
+    "transaction_id": "123456780",
+    "status": "approved",
+    "score": 90.5
+  },
+  {
+    "merchant_id": "MERCHANT678",
+    "transaction_id": "987654321",
+    "status": "declined",
+    "score": 72.8,
+    "reason": "Unusual spending pattern"
+  }
+]

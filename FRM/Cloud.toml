@@ -1,0 +1,7 @@
+[container.image]
+name="frm-service"
+tag="0.1.0"
+
+[[container.copy.files]]
+sourceFile="./fraudDetails.json"
+target="./fraudDetails.json"

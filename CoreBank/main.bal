@@ -8,11 +8,6 @@ string creditCardDetailsFile = "./creditCardDetails.json";
 string requestsFilePath = "./requests.json";
 
 service /cbs on new http:Listener(9095) {
-
-    resource function get hello () returns json {
-        return {success: true};
-    }
-
     resource function get users/search(string first_name, string last_name, string social_security_number) returns User|error {
 
         json|io:Error userDetails = io:fileReadJson(userDetailsFile);
